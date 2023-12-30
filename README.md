@@ -21,3 +21,8 @@ https://wiki.st.com/stm32mcu/wiki/Category:STM32CubeIDE
 
 Manufacturer of PCB, JLCPCB:
 https://m.jlcpcb.com/more/componentDetail?componentCode=C2888218
+
+Dev-board NUCLEO-WL55JC2, similiar MCU for prototyping:
+https://www.st.com/en/evaluation-tools/nucleo-wl55jc.html#overview
+Buy from Mouser (no external programer required):
+https://www.mouser.se/ProductDetail/STMicroelectronics/NUCLEO-WL55JC2?qs=%252B6g0mu59x7KaOy%2FAefj%252BRg%3D%3D
