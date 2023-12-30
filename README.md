@@ -15,6 +15,7 @@ https://www.st.com/en/microcontrollers-microprocessors/stm32wlex/documentation.h
 
 STLINK-V3 modular in-circuit debugger and programmer for STM32/STM8
 https://www.st.com/en/development-tools/stlink-v3set.html
+Mouser: https://www.mouser.se/ProductDetail/STMicroelectronics/STLINK-V3SET?qs=sGAEpiMZZMuqBwn8WqcFUj2aNd7i9W7uzHMzYy6qD5f5R5n3HCQ2Rg%3D%3D
 
 Recommended IDE, STM32CubeIDE:
 https://wiki.st.com/stm32mcu/wiki/Category:STM32CubeIDE
@@ -24,5 +25,4 @@ https://m.jlcpcb.com/more/componentDetail?componentCode=C2888218
 
 Dev-board NUCLEO-WL55JC2, similiar MCU for prototyping:
 https://www.st.com/en/evaluation-tools/nucleo-wl55jc.html#overview
-Buy from Mouser (no external programer required):
-https://www.mouser.se/ProductDetail/STMicroelectronics/NUCLEO-WL55JC2?qs=%252B6g0mu59x7KaOy%2FAefj%252BRg%3D%3D
+Buy from Mouser (no external programer required): https://www.mouser.se/ProductDetail/STMicroelectronics/NUCLEO-WL55JC2?qs=%252B6g0mu59x7KaOy%2FAefj%252BRg%3D%3D
