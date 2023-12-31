@@ -50,5 +50,5 @@ https://www.st.com/en/embedded-software/stm32cubewl.html
 2. Download STM32Cube MCU Package for STM32WL series (from URL or through IDE)
 3. IDE STM32cubeWL: \Documentation\STM32CubeWL_HAL_LL\um2643-getting-started-with-stm32cubewl-for-stm32wl-series-stmicroelectronics.pdf
 4. Dev-board NUCLEO-WL55JC: \IO-board_Nucleo-WL5JC2\Documentation\User-Manual_STM_NUCLEO-WL55JC.pdf
-
+5. Online video training: https://youtube.com/playlist?list=PLnMKNibPkDnGnd25b995A5xzV7gUnC1NP&si=fuwf-YcDqdPsEJno
 
