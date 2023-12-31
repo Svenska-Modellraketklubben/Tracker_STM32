@@ -20,6 +20,9 @@ Mouser: https://www.mouser.se/ProductDetail/STMicroelectronics/STLINK-V3SET?qs=s
 Recommended IDE, STM32CubeIDE:
 https://wiki.st.com/stm32mcu/wiki/Category:STM32CubeIDE
 
+STM32Cube MCU Package for STM32WL series (HAL, Low-Layer APIs and CMSIS, File system, RTOS, KMS, Secure Engine, Sub-GHz Phy, LoRaWAN and Sigfox stacks - and examples running on ST boards):
+https://www.st.com/en/embedded-software/stm32cubewl.html#documentation
+
 Manufacturer of PCB, JLCPCB:
 https://m.jlcpcb.com/more/componentDetail?componentCode=C2888218
 
