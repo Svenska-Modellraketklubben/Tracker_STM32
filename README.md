@@ -46,14 +46,21 @@ https://www.st.com/en/embedded-software/stm32cubewl.html
 *****************************************************************************************************************************
 
 <b>GETTING STARTED</b>
+IDE:
 1. Download STM32CubeIDE
 2. Download STM32Cube MCU Package for STM32WL series (from URL or through IDE)
-3. IDE STM32cubeWL: \Documentation\STM32CubeWL_HAL_LL\um2643-getting-started-with-stm32cubewl-for-stm32wl-series-stmicroelectronics.pdf
-4. Dev-board NUCLEO-WL55JC: \IO-board_Nucleo-WL5JC2\Documentation\User-Manual_STM_NUCLEO-WL55JC.pdf
-5. Online video training: https://youtube.com/playlist?list=PLnMKNibPkDnGnd25b995A5xzV7gUnC1NP&si=fuwf-YcDqdPsEJno
+3. Log in to STM in the IDE (right most top-menu).
+4. Start a new project and select WL55JC2 under BOARDS.
+5. Find example projects under the STM32Cube_FW_WL_n firmware package folder (see info to path below)
+Read:
+1. IDE STM32cubeWL: \Documentation\STM32CubeWL_HAL_LL\um2643-getting-started-with-stm32cubewl-for-stm32wl-series-stmicroelectronics.pdf
+2. Dev-board NUCLEO-WL55JC: \IO-board_Nucleo-WL5JC2\Documentation\User-Manual_STM_NUCLEO-WL55JC.pdf
+3. Online video training: https://youtube.com/playlist?list=PLnMKNibPkDnGnd25b995A5xzV7gUnC1NP&si=fuwf-YcDqdPsEJno
+
 
 *****************************************************************************************************************************
 
 <b>STM32Cube_FW_WL_V1.3.0</b>
 MAC local path to firmware package and documentation with examples
 /System/Volumes/Data/Users/peter/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0
+Windows: in the IDE go to Window - Preferences - STM32CUBE - Firmware Updater - Repository Setup.
