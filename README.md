@@ -52,3 +52,6 @@ https://www.st.com/en/embedded-software/stm32cubewl.html
 4. Dev-board NUCLEO-WL55JC: \IO-board_Nucleo-WL5JC2\Documentation\User-Manual_STM_NUCLEO-WL55JC.pdf
 5. Online video training: https://youtube.com/playlist?list=PLnMKNibPkDnGnd25b995A5xzV7gUnC1NP&si=fuwf-YcDqdPsEJno
 
+<b>STM32Cube_FW_WL_V1.3.0</b>
+MAC local path to firmware package and documentation with examples
+/System/Volumes/Data/Users/peter/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0
